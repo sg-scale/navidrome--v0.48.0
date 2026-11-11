@@ -1,6 +1,6 @@
 module github.com/navidrome/navidrome
 
-go 1.18
+go 1.24
 
 require (
 	code.cloudfoundry.org/go-diodes v0.0.0-20190809170250-f77fb823c7ee
@@ -17,7 +17,7 @@ require (
 	github.com/djherbis/stream v1.4.0
 	github.com/dustin/go-humanize v1.0.0
 	github.com/fatih/structs v1.1.0
-	github.com/go-chi/chi/v5 v5.0.7
+	github.com/go-chi/chi/v5 v5.5.0
 	github.com/go-chi/cors v1.2.1
 	github.com/go-chi/httprate v0.7.0
 	github.com/go-chi/jwtauth/v5 v5.0.2
