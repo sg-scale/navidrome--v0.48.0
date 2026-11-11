@@ -24,7 +24,7 @@ require (
 	github.com/golangci/golangci-lint v1.49.0
 	github.com/google/uuid v1.3.0
 	github.com/google/wire v0.5.0
-	github.com/kennygrant/sanitize v0.0.0-20170120101633-6a0bfdde8629
+	github.com/kennygrant/sanitize v1.2.4
 	github.com/kr/pretty v0.3.0
 	github.com/lestrrat-go/jwx v1.2.25
 	github.com/matoous/go-nanoid v1.5.0
